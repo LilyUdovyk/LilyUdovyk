@@ -1,4 +1,4 @@
-## Front End Developer
+## Full-Stack JS Developer
 
 ### Contacts
 
@@ -6,14 +6,57 @@
 * Email: liliiaudovyk@gmail.com
 * Skype: join.skype.com/invite/haSMKCRgvSHZ
 
-### Technologies (have some experience)
+### Technologies
 
-JavaScript, React, TypeScript, Redux, Redux-Saga, HTML5, CSS3, SCSS, Bootstrap, GraphQL, AJAX, Socket.IO, Git
+* JavaScript
+* React
+* TypeScript
+* Node.js*
+* Nest.js
+* Express.js
+* Redux
+* Redux-Saga
+* Rx.js
+* Passport.js
+* MongoDB
+* Mongoose
+* HTML5
+* CSS3
+* SCSS
+* Grid
+* AJAX
+* RESTful API
+* Axios
+* Socket.IO
+* Stripe
+* Google Maps API
+* Cypress.io
+* Jest
+* GraphQL
+* Ant Design
+
+### Professional experience
+
+* Sep 2020 – till now, **TEAM WORK SPIRIT**, **Full-Stack JS Developer**
+
+**Key responsibilities:**
+* planning
+* development
+* refactoring
+* bug fixing
+* code review
+* manual testing
+* automation testing
+* unit testing
+* implementing UI
+* generating API documentation in Postman
+* API testing
+* creating database migrations
 
 ### Additional courses
 
-* "Front-end Advanced" – A-Level Ukraine, 2020
-* Interactive courses – HTMLAcademy, 2019
+* **"Front-end Advanced"** – A-Level Ukraine, 2020
+* **Interactive courses** – HTMLAcademy, 2019
 
 
 <!--
