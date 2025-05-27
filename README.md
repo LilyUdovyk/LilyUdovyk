@@ -4,7 +4,6 @@
 
 * LinkedIn: [linkedin.com/in/lily-udovyk](https://www.linkedin.com/in/lily-udovyk/)
 * Email: liliiaudovyk@gmail.com
-* Skype: join.skype.com/invite/haSMKCRgvSHZ
 
 ### Technologies
 
